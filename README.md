@@ -1,0 +1,2 @@
+# 10th-Gen-Intel-Hackintoch-EFI
+i5-10400F/RX580/技嘉B460M AORUS ELITE
